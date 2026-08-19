@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+.DS_Store
+
+# Large raster files
+*.tif
+*.tiff
+
+# Temporary files
+*.tmp
+~$*
