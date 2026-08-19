@@ -1,0 +1,15 @@
+step,records
+WPdx+ extract as downloaded,98774.0
+After restricting to Uganda,98767.0
+After removing flagged duplicates,97914.0
+After removing urban water points,95430.0
+After removing missing coordinates,95430.0
+Analysis sample,92934.0
+  of which water available,76714.0
+  of which no water available,16220.0
+,
+No water available,16220.0
+After removing abandoned or decommissioned,15758.0
+After removing dry season non-functional,15390.0
+After removing private or delegated management,14635.0
+Candidate set,14635.0

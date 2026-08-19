@@ -1,0 +1,321 @@
+#lat_deg,#lon_deg,#report_date,#status_id,#water_tech_category,#clean_country_name,#clean_adm2,#clean_adm4,#install_year,#management_clean,#status_clean,local_population_1km,usage_capacity,is_urban,is_duplicate,geometry,subcounty
+1.306767,31.240021,2022 Mar 08 12:00:00 AM,No,,Uganda,Kikuube,Buhimba,,,Non-Functional,572.0,250.0,False,,POINT (31.240021 1.306767),BUHIMBA
+1.1709914,30.9956055,2022 Mar 05 12:00:00 AM,No,,Uganda,Kikuube,Kabwoya,,,Non-Functional,663.0,250.0,False,,POINT (30.9956055 1.1709914),KABWOYA
+1.3025104,31.2137204,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,010",,Non-Functional,677.0,300.0,False,,POINT (31.2137204 1.3025104),KIKUUBE TOWN COUNCIL
+1.3340028,31.237235,2022 Mar 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,013",Community Management,Non-Functional,838.0,300.0,False,,POINT (31.237235 1.3340028),KIKUUBE TOWN COUNCIL
+1.3561644,31.1549543,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,011",,Non-Functional,514.0,300.0,False,,POINT (31.1549543 1.3561644),KIZIRANFUMBI
+1.4361753,31.1888889,2022 Mar 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Bugambe,"2,018",,Non-Functional,104.0,300.0,False,,POINT (31.1888889 1.4361753),BUGAMBE
+1.339107,30.9812933,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kabwoya,,,Non-Functional,787.0,300.0,False,,POINT (30.9812933 1.339107),KABWOYA
+1.2122996,30.8008676,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,015",,Non-Functional,1375.0,300.0,False,,POINT (30.8008676 1.2122996),KYANGWALI
+1.1777126,30.7942256,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,020",,Non-Functional,3891.0,300.0,False,,POINT (30.7942256 1.1777126),KYANGWALI RSC
+1.236885,31.0763883,2022 Feb 28 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kabwoya,,Community Management,Non-Functional,908.0,300.0,False,,POINT (31.0763883 1.236885),KABWOYA
+1.3107723,31.1747972,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,019",Community Management,Non-Functional,999.0,300.0,False,,POINT (31.1747972 1.3107723),KIZIRANFUMBI
+1.1689931,30.7894414,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Non-Functional,4932.0,300.0,False,,POINT (30.7894414 1.1689931),KYANGWALI RSC
+1.2547546,30.7883841,2022 Mar 02 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,017",Community Management,Non-Functional,1511.0,300.0,False,,POINT (30.7883841 1.2547546),KYANGWALI
+1.1853508,30.7847743,2022 Mar 06 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,019",Community Management,Non-Functional,3247.0,300.0,False,,POINT (30.7847743 1.1853508),KYANGWALI RSC
+1.21516347,30.79986299,2010 May 05 12:00:00 AM,No,,Uganda,Kikuube,Kyangwali,"1,992",Other Institutional Management,Non-Functional,1327.0,50.0,False,,POINT (30.79986299 1.21516347),KYANGWALI
+1.3897462,31.12302376,2010 May 08 12:00:00 AM,No,,Uganda,Kikuube,Kiziranfumbi,"1,991",Community Management,Non-Functional,1423.0,300.0,False,,POINT (31.12302376 1.3897462),KIZIRANFUMBI
+1.2935334,31.339125,2022 Mar 01 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,012",Community Management,Non-Functional,874.0,300.0,False,,POINT (31.339125 1.2935334),BUHIMBA
+1.1561353,30.7301797,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,013",,Non-Functional,1372.0,300.0,False,,POINT (30.7301797 1.1561353),KYANGWALI RSC
+1.3829167,31.1229483,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,021",,Non-Functional,1471.0,300.0,False,,POINT (31.1229483 1.3829167),KIZIRANFUMBI
+1.1804315,30.7437365,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,020",,Non-Functional,482.0,300.0,False,,POINT (30.7437365 1.1804315),KYANGWALI RSC
+1.2265211,30.727978,2022 Mar 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,009",Community Management,Non-Functional,706.0,300.0,False,,POINT (30.727978 1.2265211),KYANGWALI
+1.3003961,31.1252639,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,,,Functional,885.0,300.0,False,,POINT (31.1252639 1.3003961),KIZIRANFUMBI
+1.1186441,30.7073651,2022 Mar 13 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,013",Community Management,Non-Functional,322.0,300.0,False,,POINT (30.7073651 1.1186441),KYANGWALI RSC
+1.220957,30.8986349,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,016",,Non-Functional,2448.0,300.0,False,,POINT (30.8986349 1.220957),KYANGWALI
+1.1641375,30.7651809,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,017",Community Management,Non-Functional,2309.0,300.0,False,,POINT (30.7651809 1.1641375),KYANGWALI RSC
+1.36178351,31.31251903,2010 May 07 12:00:00 AM,No,,Uganda,Kikuube,Buhimba Town Council,"2,004",Community Management,Non-Functional,928.0,300.0,False,,POINT (31.31251903 1.36178351),BUHIMBA TOWN COUNCIL
+1.1648267,30.8025033,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,019",,Functional,5583.0,300.0,False,,POINT (30.8025033 1.1648267),KYANGWALI RSC
+1.3430778,31.1231119,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,015",,Non-Functional,808.0,300.0,False,,POINT (31.1231119 1.3430778),KIZIRANFUMBI
+1.2397764,30.7915736,2022 Mar 05 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,020",Community Management,Non-Functional,1076.0,300.0,False,,POINT (30.7915736 1.2397764),KYANGWALI
+1.3262005,31.2068243,2022 Mar 03 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,021",,Non-Functional,2023.0,300.0,False,,POINT (31.2068243 1.3262005),KIKUUBE TOWN COUNCIL
+1.2678078,31.1849178,2022 Mar 13 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,015",Community Management,Non-Functional,416.0,300.0,False,,POINT (31.1849178 1.2678078),KIZIRANFUMBI
+1.3383004,31.2200637,2022 Mar 05 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,021",Community Management,Non-Functional,1237.0,300.0,False,,POINT (31.2200637 1.3383004),KIKUUBE TOWN COUNCIL
+1.3052016,31.3034516,2022 Feb 28 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,,,Non-Functional,688.0,300.0,False,,POINT (31.3034516 1.3052016),BUHIMBA
+1.1716811,30.7984463,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,020",,Non-Functional,5107.0,300.0,False,,POINT (30.7984463 1.1716811),KYANGWALI RSC
+1.4468099,30.916352,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kabwoya,,,Non-Functional,1177.0,300.0,False,,POINT (30.916352 1.4468099),KABWOYA
+1.1604899,30.80155,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Non-Functional,6562.0,300.0,False,,POINT (30.80155 1.1604899),KYANGWALI RSC
+1.3822421,31.1160689,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,022",,Non-Functional,1245.0,300.0,False,,POINT (31.1160689 1.3822421),KIZIRANFUMBI
+1.1396033,30.7153226,2022 Mar 13 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,013",Community Management,Non-Functional,514.0,300.0,False,,POINT (30.7153226 1.1396033),KYANGWALI RSC
+1.32279028,31.30161979,2010 Oct 01 12:00:00 AM,No,,Uganda,Kikuube,Buhimba Town Council,"2,000",Other Institutional Management,Non-Functional,749.0,50.0,False,,POINT (31.30161979 1.32279028),BUHIMBA TOWN COUNCIL
+1.4334582,31.2113005,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Bugambe,,Community Management,Non-Functional,433.0,300.0,False,,POINT (31.2113005 1.4334582),BUGAMBE
+1.3364768,31.3144111,2022 Mar 06 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba Town Council,"2,010",,Non-Functional,1731.0,300.0,False,,POINT (31.3144111 1.3364768),BUHIMBA TOWN COUNCIL
+1.27461664,31.23461616,2010 May 08 12:00:00 AM,No,,Uganda,Kikuube,Kikuube Town Council,"2,003",Other Institutional Management,Non-Functional,670.0,50.0,False,,POINT (31.23461616 1.27461664),KIZIRANFUMBI
+1.1608393,31.0311688,2022 Mar 06 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kabwoya,,,Non-Functional,1307.0,300.0,False,,POINT (31.0311688 1.1608393),KABWOYA
+1.1280532,30.7542346,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,017",Community Management,Non-Functional,1171.0,300.0,False,,POINT (30.7542346 1.1280532),KYANGWALI RSC
+1.3502275,31.1966209,2022 Mar 05 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,,Community Management,Non-Functional,637.0,300.0,False,,POINT (31.1966209 1.3502275),KIKUUBE TOWN COUNCIL
+1.2917289,31.3015945,2022 Feb 28 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,011",Community Management,Non-Functional,887.0,300.0,False,,POINT (31.3015945 1.2917289),BUHIMBA
+1.3296487,31.205466,2022 Mar 03 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,021",,Non-Functional,2018.0,300.0,False,,POINT (31.205466 1.3296487),KIKUUBE TOWN COUNCIL
+1.2747964,31.20703332,2010 May 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"1,996",Community Management,Non-Functional,1059.0,300.0,False,,POINT (31.20703332 1.2747964),KIZIRANFUMBI
+1.3063072,31.2294192,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,020",Community Management,Non-Functional,527.0,300.0,False,,POINT (31.2294192 1.3063072),KIKUUBE TOWN COUNCIL
+1.300479,31.1681672,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,,,Non-Functional,1127.0,300.0,False,,POINT (31.1681672 1.300479),KIZIRANFUMBI
+1.3970658,30.8588309,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kabwoya,"2,010",,Non-Functional,1211.0,300.0,False,,POINT (30.8588309 1.3970658),KABWOYA
+1.1393642,30.763348,2022 Mar 10 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Non-Functional,1869.0,300.0,False,,POINT (30.763348 1.1393642),KYANGWALI RSC
+1.1608435,30.8036033,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,020",Community Management,Non-Functional,6089.0,300.0,False,,POINT (30.8036033 1.1608435),KYANGWALI RSC
+1.1690767,30.7941126,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Non-Functional,5956.0,300.0,False,,POINT (30.7941126 1.1690767),KYANGWALI RSC
+1.4881337,31.1613632,2022 Mar 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Bugambe,,Community Management,Non-Functional,1023.0,300.0,False,,POINT (31.1613632 1.4881337),BUGAMBE
+1.2334714,30.7450691,2022 Mar 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,009",Community Management,Non-Functional,822.0,300.0,False,,POINT (30.7450691 1.2334714),KYANGWALI
+1.2353287,31.2712926,2022 Mar 01 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,012",,Non-Functional,899.0,300.0,False,,POINT (31.2712926 1.2353287),BUHIMBA
+1.34251612,31.18015689,2010 May 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"1,996",Community Management,Non-Functional,695.0,300.0,False,,POINT (31.18015689 1.34251612),KIKUUBE TOWN COUNCIL
+1.4469173,31.2259714,2022 Mar 02 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Bugambe,,Community Management,Functional,716.0,300.0,False,,POINT (31.2259714 1.4469173),BUGAMBE
+1.3177775,31.2863474,2022 Mar 07 12:00:00 AM,No,,Uganda,Kikuube,Buhimba,"2,010",Community Management,Non-Functional,914.0,250.0,False,,POINT (31.2863474 1.3177775),BUHIMBA
+1.3835473,31.1186652,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,022",,Non-Functional,1307.0,300.0,False,,POINT (31.1186652 1.3835473),KIZIRANFUMBI
+1.1936453,30.7589798,2022 Mar 10 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Functional,1280.0,300.0,False,,POINT (30.7589798 1.1936453),KYANGWALI RSC
+1.3337992,31.3121003,2022 Mar 14 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba Town Council,"2,018",,Functional,1342.0,300.0,False,,POINT (31.3121003 1.3337992),BUHIMBA TOWN COUNCIL
+1.1751817,30.7897867,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,020",,Non-Functional,3844.0,300.0,False,,POINT (30.7897867 1.1751817),KYANGWALI RSC
+1.4440796,31.2706154,2022 Mar 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Bugambe,,,Non-Functional,878.0,300.0,False,,POINT (31.2706154 1.4440796),BUGAMBE
+1.4262512,31.185281,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Bugambe,,Community Management,Non-Functional,178.0,300.0,False,,POINT (31.185281 1.4262512),BUGAMBE
+1.3472827,31.3152798,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba Town Council,"2,018",,Non-Functional,2629.0,300.0,False,,POINT (31.3152798 1.3472827),BUHIMBA TOWN COUNCIL
+1.1128258,30.7192716,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,010",,Non-Functional,446.0,300.0,False,,POINT (30.7192716 1.1128258),KYANGWALI RSC
+1.1866905,30.7802199,2022 Mar 10 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,020",Community Management,Non-Functional,3241.0,300.0,False,,POINT (30.7802199 1.1866905),KYANGWALI RSC
+1.36399579,31.25743804,2010 Oct 01 12:00:00 AM,No,,Uganda,Kikuube,Buhimba,"2,007",Community Management,Non-Functional,530.0,300.0,False,,POINT (31.25743804 1.36399579),BUHIMBA
+1.33312073,31.20456616,2010 May 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"1,964",Community Management,Non-Functional,1995.0,300.0,False,,POINT (31.20456616 1.33312073),KIKUUBE TOWN COUNCIL
+1.1643761,30.8009565,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Non-Functional,5965.0,300.0,False,,POINT (30.8009565 1.1643761),KYANGWALI RSC
+1.2372217,30.736499,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,009",Community Management,Non-Functional,2067.0,300.0,False,,POINT (30.736499 1.2372217),KYANGWALI
+1.22701128,30.81648835,2010 May 05 12:00:00 AM,No,,Uganda,Kikuube,Kyangwali,"2,003",Other Institutional Management,Non-Functional,1806.0,50.0,False,,POINT (30.81648835 1.22701128),KYANGWALI
+1.26466,30.828705,2022 Feb 28 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,006",Community Management,Non-Functional,1111.0,300.0,False,,POINT (30.828705 1.26466),KYANGWALI
+1.1496237,30.7474459,2022 Mar 12 12:00:00 AM,No,,Uganda,Kikuube,Kyangwali,"2,016",,Functional,1744.0,250.0,False,,POINT (30.7474459 1.1496237),KYANGWALI RSC
+1.338016,31.3933763,2022 Mar 03 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,021",,Functional,937.0,300.0,False,,POINT (31.3933763 1.338016),BUHIMBA
+1.1764747,30.7461696,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Non-Functional,1064.0,300.0,False,,POINT (30.7461696 1.1764747),KYANGWALI RSC
+1.1510531,30.8002873,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,022",Community Management,Non-Functional,4178.0,300.0,False,,POINT (30.8002873 1.1510531),KYANGWALI RSC
+1.3812362,31.1256497,2022 Mar 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,022",,Non-Functional,1503.0,300.0,False,,POINT (31.1256497 1.3812362),KIZIRANFUMBI
+1.33407906,31.27973325,2010 Aug 06 12:00:00 AM,No,,Uganda,Kikuube,Buhimba,"2,002",Community Management,Non-Functional,544.0,300.0,False,,POINT (31.27973325 1.33407906),BUHIMBA TOWN COUNCIL
+1.3102763,31.2843809,2022 Mar 05 12:00:00 AM,No,,Uganda,Kikuube,Buhimba,"2,005",Community Management,Functional,772.0,250.0,False,,POINT (31.2843809 1.3102763),BUHIMBA
+1.3871448,31.1428461,2022 Mar 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,,Community Management,Non-Functional,851.0,300.0,False,,POINT (31.1428461 1.3871448),KIZIRANFUMBI
+1.17548,30.7978083,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,020",,Non-Functional,4323.0,300.0,False,,POINT (30.7978083 1.17548),KYANGWALI RSC
+1.2223966,31.1660869,2022 Mar 07 12:00:00 AM,No,,Uganda,Kikuube,Kabwoya,"2,018",,Non-Functional,1342.0,250.0,False,,POINT (31.1660869 1.2223966),KABWOYA
+1.1501847,30.7561343,2022 Mar 10 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,020",,Functional,2398.0,300.0,False,,POINT (30.7561343 1.1501847),KYANGWALI RSC
+1.3542818,31.3946166,2022 Mar 05 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,018",,Non-Functional,1811.0,300.0,False,,POINT (31.3946166 1.3542818),BUHIMBA
+1.30134085,31.12571474,2010 May 08 12:00:00 AM,No,,Uganda,Kikuube,Kiziranfumbi,"2,001",Community Management,Non-Functional,818.0,300.0,False,,POINT (31.12571474 1.30134085),KIZIRANFUMBI
+1.2392817,30.7365245,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,009",Community Management,Non-Functional,1978.0,300.0,False,,POINT (30.7365245 1.2392817),KYANGWALI
+1.3350614,31.2062446,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,021",,Non-Functional,1930.0,300.0,False,,POINT (31.2062446 1.3350614),KIKUUBE TOWN COUNCIL
+1.4385481,31.1678986,2022 Mar 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Bugambe,"2,006",,Non-Functional,220.0,300.0,False,,POINT (31.1678986 1.4385481),BUGAMBE
+1.34828003,31.13753888,2010 May 08 12:00:00 AM,No,,Uganda,Kikuube,Kiziranfumbi,"2,002",Other Institutional Management,Non-Functional,738.0,50.0,False,,POINT (31.13753888 1.34828003),KIZIRANFUMBI
+1.1512257,30.7488034,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,013",,Non-Functional,1851.0,300.0,False,,POINT (30.7488034 1.1512257),KYANGWALI RSC
+1.1393797,30.7412111,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,013",Community Management,Non-Functional,1014.0,300.0,False,,POINT (30.7412111 1.1393797),KYANGWALI RSC
+1.1281468,30.7608263,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,019",Community Management,Non-Functional,1484.0,300.0,False,,POINT (30.7608263 1.1281468),KYANGWALI RSC
+1.2303625,30.7984849,2022 Mar 05 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,014",Community Management,Non-Functional,1348.0,300.0,False,,POINT (30.7984849 1.2303625),KYANGWALI
+1.3697104,31.1189676,2022 Mar 10 12:00:00 AM,No,,Uganda,Kikuube,Kiziranfumbi,"2,009",,Non-Functional,906.0,250.0,False,,POINT (31.1189676 1.3697104),KIZIRANFUMBI
+1.171538,30.7804757,2022 Mar 13 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,018",Community Management,Non-Functional,2886.0,300.0,False,,POINT (30.7804757 1.171538),KYANGWALI RSC
+1.34381221,31.22076697,2010 May 08 12:00:00 AM,No,,Uganda,Kikuube,Kikuube Town Council,"2,007",Other,Non-Functional,1378.0,50.0,False,,POINT (31.22076697 1.34381221),KIKUUBE TOWN COUNCIL
+1.1307311,30.7063844,2022 Mar 13 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,013",,Non-Functional,683.0,300.0,False,,POINT (30.7063844 1.1307311),KYANGWALI RSC
+1.3106863,31.3034873,2022 Mar 14 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba Town Council,"2,003",,Non-Functional,618.0,300.0,False,,POINT (31.3034873 1.3106863),BUHIMBA TOWN COUNCIL
+1.26771,31.099095,2022 Mar 05 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kabwoya,"2,019",Community Management,Non-Functional,799.0,300.0,False,,POINT (31.099095 1.26771),KABWOYA
+1.1594934,30.800716,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Non-Functional,6849.0,300.0,False,,POINT (30.800716 1.1594934),KYANGWALI RSC
+1.2245649,30.8532808,2022 Feb 28 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"1,998",Community Management,Non-Functional,1029.0,300.0,False,,POINT (30.8532808 1.2245649),KYANGWALI
+1.34414149,31.31466074,2010 May 10 12:00:00 AM,No,,Uganda,Kikuube,Buhimba Town Council,"2,004",Other,Non-Functional,2409.0,300.0,False,,POINT (31.31466074 1.34414149),BUHIMBA TOWN COUNCIL
+1.24613521,31.0857762,2010 May 06 12:00:00 AM,No,,Uganda,Kikuube,Kabwoya,"1,969",Other Institutional Management,Non-Functional,1435.0,50.0,False,,POINT (31.0857762 1.24613521),KABWOYA
+1.3837782,31.2701032,2022 Mar 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Bugambe,"2,020",,Non-Functional,1448.0,300.0,False,,POINT (31.2701032 1.3837782),BUGAMBE
+1.33536752,31.31185435,2010 Oct 01 12:00:00 AM,No,,Uganda,Kikuube,Buhimba Town Council,"2,008",Other Institutional Management,Non-Functional,1386.0,50.0,False,,POINT (31.31185435 1.33536752),BUHIMBA TOWN COUNCIL
+1.23654587,30.93584157,2010 May 05 12:00:00 AM,No,,Uganda,Kikuube,Kyangwali,"2,007",Community Management,Non-Functional,1372.0,300.0,False,,POINT (30.93584157 1.23654587),KYANGWALI
+1.27686137,31.35979324,2010 May 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,002",Community Management,Non-Functional,791.0,300.0,False,,POINT (31.35979324 1.27686137),BUHIMBA
+1.2153348,30.79932393,2010 May 05 12:00:00 AM,No,,Uganda,Kikuube,Kyangwali,"1,992",Other Institutional Management,Non-Functional,1363.0,50.0,False,,POINT (30.79932393 1.2153348),KYANGWALI
+1.1636121,30.7939037,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Non-Functional,5929.0,300.0,False,,POINT (30.7939037 1.1636121),KYANGWALI RSC
+1.3784762,30.9862056,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kabwoya,"2,017",Community Management,Non-Functional,2268.0,300.0,False,,POINT (30.9862056 1.3784762),KABWOYA
+1.1604058,30.8017325,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,018",,Non-Functional,6562.0,300.0,False,,POINT (30.8017325 1.1604058),KYANGWALI RSC
+1.2702475,31.3111781,2022 Mar 03 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,007",,Non-Functional,717.0,300.0,False,,POINT (31.3111781 1.2702475),BUHIMBA
+1.3821968,31.1225665,2022 Mar 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,022",,Non-Functional,1506.0,300.0,False,,POINT (31.1225665 1.3821968),KIZIRANFUMBI
+1.2955761,31.3244607,2022 Mar 01 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,016",Community Management,Non-Functional,635.0,300.0,False,,POINT (31.3244607 1.2955761),BUHIMBA
+1.1789576,30.7931987,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,019",,Non-Functional,3637.0,300.0,False,,POINT (30.7931987 1.1789576),KYANGWALI RSC
+1.3839775,31.1240063,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,021",,Non-Functional,1461.0,300.0,False,,POINT (31.1240063 1.3839775),KIZIRANFUMBI
+1.3256688,31.3126683,2022 Mar 14 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba Town Council,"2,010",Community Management,Non-Functional,1047.0,300.0,False,,POINT (31.3126683 1.3256688),BUHIMBA TOWN COUNCIL
+1.3243806,31.2831773,2022 Mar 07 12:00:00 AM,No,,Uganda,Kikuube,Buhimba,"2,003",Community Management,Non-Functional,789.0,250.0,False,,POINT (31.2831773 1.3243806),BUHIMBA
+1.1687483,30.7969517,2022 Mar 13 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,020",Community Management,Non-Functional,5985.0,300.0,False,,POINT (30.7969517 1.1687483),KYANGWALI RSC
+1.2283763,30.7296532,2022 Mar 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,009",Community Management,Non-Functional,1088.0,300.0,False,,POINT (30.7296532 1.2283763),KYANGWALI
+1.2858399,31.279577,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,019",,Non-Functional,711.0,300.0,False,,POINT (31.279577 1.2858399),BUHIMBA
+1.26018426,31.16978512,2010 May 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,006",Community Management,Non-Functional,974.0,300.0,False,,POINT (31.16978512 1.26018426),KIZIRANFUMBI
+1.3284721,31.2040764,2022 Mar 03 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,021",,Non-Functional,1995.0,300.0,False,,POINT (31.2040764 1.3284721),KIKUUBE TOWN COUNCIL
+1.33505596,31.35893783,2010 May 07 12:00:00 AM,No,,Uganda,Kikuube,Buhimba,"2,009",Community Management,Non-Functional,599.0,300.0,False,,POINT (31.35893783 1.33505596),BUHIMBA
+1.1580882,30.8016019,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,022",Community Management,Non-Functional,6633.0,300.0,False,,POINT (30.8016019 1.1580882),KYANGWALI RSC
+1.1877864,30.7778425,2022 Mar 10 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,021",Community Management,Non-Functional,3028.0,300.0,False,,POINT (30.7778425 1.1877864),KYANGWALI RSC
+1.1728144,30.7985788,2022 Mar 13 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,021",,Non-Functional,4749.0,300.0,False,,POINT (30.7985788 1.1728144),KYANGWALI RSC
+1.1651256,30.8022995,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,019",,Non-Functional,5775.0,300.0,False,,POINT (30.8022995 1.1651256),KYANGWALI RSC
+1.1993283,30.7704748,2022 Mar 10 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,022",Community Management,Functional,913.0,300.0,False,,POINT (30.7704748 1.1993283),KYANGWALI RSC
+1.3831622,31.1184474,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,022",,Non-Functional,1348.0,300.0,False,,POINT (31.1184474 1.3831622),KIZIRANFUMBI
+1.3291185,31.2072354,2022 Mar 03 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,021",,Non-Functional,2013.0,300.0,False,,POINT (31.2072354 1.3291185),KIKUUBE TOWN COUNCIL
+1.2207686,30.7886708,2022 Mar 03 12:00:00 AM,No,,Uganda,Kikuube,Kyangwali,"2,007",,Non-Functional,1638.0,250.0,False,,POINT (30.7886708 1.2207686),KYANGWALI
+1.1677738,30.7856457,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Non-Functional,4013.0,300.0,False,,POINT (30.7856457 1.1677738),KYANGWALI RSC
+1.26467204,31.3619484,2010 May 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,004",Community Management,Non-Functional,626.0,300.0,False,,POINT (31.3619484 1.26467204),BUHIMBA
+1.25576717,30.82432431,2010 May 05 12:00:00 AM,No,,Uganda,Kikuube,Kyangwali,"2,002",Other Institutional Management,Non-Functional,1262.0,50.0,False,,POINT (30.82432431 1.25576717),KYANGWALI
+1.1516051,30.7992134,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Non-Functional,4039.0,300.0,False,,POINT (30.7992134 1.1516051),KYANGWALI RSC
+1.38520224,31.27037035,2010 May 06 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Bugambe,"1,992",Other Institutional Management,Non-Functional,1455.0,300.0,False,,POINT (31.27037035 1.38520224),BUGAMBE
+1.3503459,31.2333664,2022 Mar 02 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,010",,Non-Functional,685.0,300.0,False,,POINT (31.2333664 1.3503459),KIKUUBE TOWN COUNCIL
+1.107989,30.7439957,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,021",,Non-Functional,795.0,300.0,False,,POINT (30.7439957 1.107989),KYANGWALI
+1.2122711,30.7998233,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,015",,Non-Functional,1431.0,300.0,False,,POINT (30.7998233 1.2122711),KYANGWALI
+1.1907519,30.7793199,2022 Mar 10 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,021",Community Management,Non-Functional,2904.0,300.0,False,,POINT (30.7793199 1.1907519),KYANGWALI RSC
+1.25379179,31.24957167,2010 May 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,000",Community Management,Non-Functional,642.0,300.0,False,,POINT (31.24957167 1.25379179),KIZIRANFUMBI
+1.1774261,30.7584196,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,016",,Non-Functional,1419.0,300.0,False,,POINT (30.7584196 1.1774261),KYANGWALI RSC
+1.2353036,30.7342423,2022 Mar 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,009",Community Management,Non-Functional,2081.0,300.0,False,,POINT (30.7342423 1.2353036),KYANGWALI
+1.4367356,31.2290041,2022 Feb 28 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Bugambe,"2,000",Community Management,Non-Functional,1202.0,300.0,False,,POINT (31.2290041 1.4367356),BUGAMBE
+1.2985056,31.2150651,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,,Community Management,Non-Functional,840.0,300.0,False,,POINT (31.2150651 1.2985056),KIKUUBE TOWN COUNCIL
+1.1609902,30.8019092,2022 Mar 13 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,019",,Non-Functional,6515.0,300.0,False,,POINT (30.8019092 1.1609902),KYANGWALI RSC
+1.3997975,30.8610376,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kabwoya,,,Non-Functional,1407.0,300.0,False,,POINT (30.8610376 1.3997975),KABWOYA
+1.1496297,30.8005882,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Non-Functional,3460.0,300.0,False,,POINT (30.8005882 1.1496297),KYANGWALI RSC
+1.1478,30.7372917,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,009",Community Management,Non-Functional,928.0,300.0,False,,POINT (30.7372917 1.1478),KYANGWALI RSC
+1.2349508,31.28424701,2010 May 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,006",Community Management,Non-Functional,721.0,300.0,False,,POINT (31.28424701 1.2349508),BUHIMBA
+1.3823105,31.1233808,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,021",,Non-Functional,1513.0,300.0,False,,POINT (31.1233808 1.3823105),KIZIRANFUMBI
+1.3346282,31.2018776,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,021",,Non-Functional,1870.0,300.0,False,,POINT (31.2018776 1.3346282),KIKUUBE TOWN COUNCIL
+1.3303531,31.1730897,2022 Feb 28 12:00:00 AM,No,,Uganda,Kikuube,Kikuube Town Council,"2,021",,Non-Functional,622.0,250.0,False,,POINT (31.1730897 1.3303531),KIKUUBE TOWN COUNCIL
+1.1690617,30.7939948,2022 Mar 13 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,020",,Non-Functional,5846.0,300.0,False,,POINT (30.7939948 1.1690617),KYANGWALI RSC
+1.2192975,31.1677413,2022 Mar 11 12:00:00 AM,No,,Uganda,Kikuube,Kabwoya,"2,012",,Non-Functional,1280.0,250.0,False,,POINT (31.1677413 1.2192975),KABWOYA
+1.127468,30.7626598,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,019",Community Management,Non-Functional,1372.0,300.0,False,,POINT (30.7626598 1.127468),KYANGWALI RSC
+1.22768691,30.82455387,2010 May 05 12:00:00 AM,No,,Uganda,Kikuube,Kyangwali,,Other Institutional Management,Non-Functional,1765.0,50.0,False,,POINT (30.82455387 1.22768691),KYANGWALI
+1.2913461,31.3001843,2022 Feb 28 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,,Community Management,Non-Functional,870.0,300.0,False,,POINT (31.3001843 1.2913461),BUHIMBA
+1.4265816,31.1851226,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Bugambe,,Community Management,Functional,178.0,300.0,False,,POINT (31.1851226 1.4265816),BUGAMBE
+1.1586212,30.7473376,2022 Mar 10 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,020",Community Management,Non-Functional,1801.0,300.0,False,,POINT (30.7473376 1.1586212),KYANGWALI RSC
+1.3200619,30.8910236,2022 Mar 01 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,019",,Non-Functional,1188.0,300.0,False,,POINT (30.8910236 1.3200619),KYANGWALI
+1.4555651,31.2112738,2022 Mar 05 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Bugambe,"2,017",Community Management,Non-Functional,782.0,300.0,False,,POINT (31.2112738 1.4555651),BUGAMBE
+1.2122913,30.8000373,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,015",,Non-Functional,1419.0,300.0,False,,POINT (30.8000373 1.2122913),KYANGWALI
+1.3180933,30.8496,2022 Mar 01 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,018",,Non-Functional,467.0,300.0,False,,POINT (30.8496 1.3180933),KYANGWALI
+1.260832,31.3468598,2022 Mar 02 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,002",Community Management,Non-Functional,836.0,300.0,False,,POINT (31.3468598 1.260832),BUHIMBA
+1.1626569,30.801696,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Non-Functional,6260.0,300.0,False,,POINT (30.801696 1.1626569),KYANGWALI RSC
+1.2328793,30.7444289,2022 Mar 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,021",,Non-Functional,1035.0,300.0,False,,POINT (30.7444289 1.2328793),KYANGWALI
+1.176735,30.7959983,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,020",,Non-Functional,4291.0,300.0,False,,POINT (30.7959983 1.176735),KYANGWALI RSC
+1.2018607,30.7693106,2022 Mar 10 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Functional,751.0,300.0,False,,POINT (30.7693106 1.2018607),KYANGWALI
+1.3723126,31.137495,2022 Mar 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,,Community Management,Non-Functional,1001.0,300.0,False,,POINT (31.137495 1.3723126),KIZIRANFUMBI
+1.1595485,30.8006012,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Non-Functional,6914.0,300.0,False,,POINT (30.8006012 1.1595485),KYANGWALI RSC
+1.3703407,31.1346211,2022 Mar 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,014",Community Management,Non-Functional,999.0,300.0,False,,POINT (31.1346211 1.3703407),KIZIRANFUMBI
+1.1593867,30.8008042,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Non-Functional,6849.0,300.0,False,,POINT (30.8008042 1.1593867),KYANGWALI RSC
+1.2609207,31.1205237,2022 Mar 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kabwoya,"2,014",Community Management,Non-Functional,688.0,300.0,False,,POINT (31.1205237 1.2609207),KABWOYA
+1.438594,31.2723528,2022 Mar 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Bugambe,,,Non-Functional,992.0,300.0,False,,POINT (31.2723528 1.438594),BUGAMBE
+1.16548,30.8020467,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,019",,Non-Functional,5494.0,300.0,False,,POINT (30.8020467 1.16548),KYANGWALI RSC
+1.2895638,31.2974018,2022 Feb 28 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,,Community Management,Non-Functional,859.0,300.0,False,,POINT (31.2974018 1.2895638),BUHIMBA
+1.34663389,31.30955538,2010 May 10 12:00:00 AM,No,,Uganda,Kikuube,Buhimba Town Council,"2,005",Other,Non-Functional,2100.0,300.0,False,,POINT (31.30955538 1.34663389),BUHIMBA TOWN COUNCIL
+1.3485605,31.13774531,2010 May 08 12:00:00 AM,No,,Uganda,Kikuube,Kiziranfumbi,"2,003",Other Institutional Management,Non-Functional,710.0,50.0,False,,POINT (31.13774531 1.3485605),KIZIRANFUMBI
+1.1299626,30.763207,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,019",Community Management,Non-Functional,1339.0,300.0,False,,POINT (30.763207 1.1299626),KYANGWALI RSC
+1.1784922,30.7966775,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,020",,Non-Functional,3531.0,300.0,False,,POINT (30.7966775 1.1784922),KYANGWALI RSC
+1.21907341,31.10054687,2010 Oct 01 12:00:00 AM,No,,Uganda,Kikuube,Kabwoya,"2,003",Community Management,Non-Functional,976.0,300.0,False,,POINT (31.10054687 1.21907341),KABWOYA
+1.3309905,31.2052652,2022 Mar 03 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,021",,Non-Functional,2050.0,300.0,False,,POINT (31.2052652 1.3309905),KIKUUBE TOWN COUNCIL
+1.1706249,30.7872315,2022 Mar 13 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,019",Community Management,Non-Functional,4288.0,300.0,False,,POINT (30.7872315 1.1706249),KYANGWALI RSC
+1.1692511,30.7970697,2022 Mar 13 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,019",Community Management,Non-Functional,5985.0,300.0,False,,POINT (30.7970697 1.1692511),KYANGWALI RSC
+1.26707393,31.10617246,2010 May 05 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kabwoya,"1,998",Community Management,Non-Functional,827.0,300.0,False,,POINT (31.10617246 1.26707393),KABWOYA
+1.3570512,30.9892535,2022 Mar 09 12:00:00 AM,No,,Uganda,Kikuube,Kabwoya,"2,020",,Non-Functional,1546.0,250.0,False,,POINT (30.9892535 1.3570512),KABWOYA
+1.3930173,31.1393716,2022 Mar 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,021",Community Management,Non-Functional,974.0,300.0,False,,POINT (31.1393716 1.3930173),KIZIRANFUMBI
+1.2736379,31.3050034,2022 Mar 01 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,011",,Non-Functional,647.0,300.0,False,,POINT (31.3050034 1.2736379),BUHIMBA
+1.1934361,30.7954255,2022 Mar 05 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,010",Community Management,Non-Functional,1310.0,300.0,False,,POINT (30.7954255 1.1934361),KYANGWALI
+1.139758,30.7457276,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,,Non-Functional,1100.0,300.0,False,,POINT (30.7457276 1.139758),KYANGWALI RSC
+1.32112513,31.28680447,2010 May 07 12:00:00 AM,No,,Uganda,Kikuube,Buhimba,"2,007",Other,Non-Functional,971.0,300.0,False,,POINT (31.28680447 1.32112513),BUHIMBA
+1.2338908,30.7332885,2022 Mar 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,009",Community Management,Non-Functional,2084.0,300.0,False,,POINT (30.7332885 1.2338908),KYANGWALI
+1.1321943,30.7061669,2022 Mar 13 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,013",Community Management,Non-Functional,706.0,300.0,False,,POINT (30.7061669 1.1321943),KYANGWALI RSC
+1.1594448,30.8005392,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Non-Functional,6914.0,300.0,False,,POINT (30.8005392 1.1594448),KYANGWALI RSC
+1.3553596,31.3938014,2022 Mar 05 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,018",,Functional,1811.0,300.0,False,,POINT (31.3938014 1.3553596),BUHIMBA
+1.3003625,31.1497382,2022 Mar 13 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,012",Community Management,Non-Functional,707.0,300.0,False,,POINT (31.1497382 1.3003625),KIZIRANFUMBI
+1.2228256,30.88729,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,021",,Functional,1650.0,300.0,False,,POINT (30.88729 1.2228256),KYANGWALI
+1.4386885,31.1675745,2022 Mar 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Bugambe,"2,018",,Non-Functional,220.0,300.0,False,,POINT (31.1675745 1.4386885),BUGAMBE
+1.1694938,30.7540185,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,,Non-Functional,1523.0,300.0,False,,POINT (30.7540185 1.1694938),KYANGWALI RSC
+1.3381813,31.2029956,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,021",,Non-Functional,1536.0,300.0,False,,POINT (31.2029956 1.3381813),KIKUUBE TOWN COUNCIL
+1.2304758,30.7723899,2022 Mar 03 12:00:00 AM,No,,Uganda,Kikuube,Kyangwali,"2,006",,Non-Functional,1490.0,250.0,False,,POINT (30.7723899 1.2304758),KYANGWALI
+1.3211357,31.2335669,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,018",,Non-Functional,1257.0,300.0,False,,POINT (31.2335669 1.3211357),KIKUUBE TOWN COUNCIL
+1.2332978,30.7479887,2022 Mar 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,009",Community Management,Non-Functional,348.0,300.0,False,,POINT (30.7479887 1.2332978),KYANGWALI
+1.2233742,30.9195302,2022 Mar 01 12:00:00 AM,No,,Uganda,Kikuube,Kyangwali,"2,015",Community Management,Non-Functional,635.0,250.0,False,,POINT (30.9195302 1.2233742),KYANGWALI
+1.188348,30.7799008,2022 Mar 10 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,021",Community Management,Non-Functional,3259.0,300.0,False,,POINT (30.7799008 1.188348),KYANGWALI RSC
+1.22865652,30.82730167,2010 May 05 12:00:00 AM,No,,Uganda,Kikuube,Kyangwali,"2,006",Community Management,Non-Functional,1629.0,300.0,False,,POINT (30.82730167 1.22865652),KYANGWALI
+1.3806708,31.1317136,2022 Mar 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,009",Community Management,Non-Functional,1179.0,300.0,False,,POINT (31.1317136 1.3806708),KIZIRANFUMBI
+1.43013059,31.24950018,2010 May 06 12:00:00 AM,No,,Uganda,Kikuube,Bugambe,"2,000",Community Management,Non-Functional,816.0,300.0,False,,POINT (31.24950018 1.43013059),BUGAMBE
+1.1310986,30.7386945,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,011",,Non-Functional,653.0,300.0,False,,POINT (30.7386945 1.1310986),KYANGWALI RSC
+1.2347783,30.8505045,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,021",Community Management,Functional,807.0,300.0,False,,POINT (30.8505045 1.2347783),KYANGWALI
+1.1883962,30.7812144,2022 Mar 10 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,018",Community Management,Non-Functional,3247.0,300.0,False,,POINT (30.7812144 1.1883962),KYANGWALI RSC
+1.4355496,31.2179243,2022 Feb 28 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Bugambe,"2,000",Community Management,Functional,734.0,300.0,False,,POINT (31.2179243 1.4355496),BUGAMBE
+1.33568844,31.30515115,2010 May 10 12:00:00 AM,No,,Uganda,Kikuube,Buhimba Town Council,"1,992",Community Management,Non-Functional,1054.0,300.0,False,,POINT (31.30515115 1.33568844),BUHIMBA TOWN COUNCIL
+1.1757272,30.7933454,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,020",,Non-Functional,4542.0,300.0,False,,POINT (30.7933454 1.1757272),KYANGWALI RSC
+1.39891109,31.19805713,2010 May 07 12:00:00 AM,No,,Uganda,Kikuube,Bugambe,"2,002",Other Institutional Management,Non-Functional,905.0,50.0,False,,POINT (31.19805713 1.39891109),BUGAMBE
+1.1547559,30.7522705,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,013",Community Management,Functional,2037.0,300.0,False,,POINT (30.7522705 1.1547559),KYANGWALI RSC
+1.2121584,30.8007419,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,015",,Non-Functional,1375.0,300.0,False,,POINT (30.8007419 1.2121584),KYANGWALI
+1.4294427,31.1623894,2022 Mar 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Bugambe,,Community Management,Non-Functional,259.0,300.0,False,,POINT (31.1623894 1.4294427),BUGAMBE
+1.3664778,31.2762148,2022 Mar 05 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,012",,Non-Functional,944.0,300.0,False,,POINT (31.2762148 1.3664778),BUHIMBA
+1.25633119,31.32933761,2010 May 07 12:00:00 AM,No,,Uganda,Kikuube,Buhimba,"2,006",Other Institutional Management,Non-Functional,834.0,50.0,False,,POINT (31.32933761 1.25633119),BUHIMBA
+1.1625186,30.8018915,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,020",,Non-Functional,6438.0,300.0,False,,POINT (30.8018915 1.1625186),KYANGWALI RSC
+1.1693589,30.784517,2022 Mar 13 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,019",Community Management,Non-Functional,3880.0,300.0,False,,POINT (30.784517 1.1693589),KYANGWALI RSC
+1.3380808,31.2180965,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,021",,Non-Functional,1257.0,300.0,False,,POINT (31.2180965 1.3380808),KIKUUBE TOWN COUNCIL
+1.4499818,31.18335376,2010 May 06 12:00:00 AM,No,,Uganda,Kikuube,Bugambe,"1,992",Community Management,Non-Functional,1766.0,300.0,False,,POINT (31.18335376 1.4499818),BUGAMBE
+1.2339193,30.7424463,2022 Mar 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,021",,Functional,1741.0,300.0,False,,POINT (30.7424463 1.2339193),KYANGWALI
+1.2558179,30.8013842,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,017",Community Management,Non-Functional,1324.0,300.0,False,,POINT (30.8013842 1.2558179),KYANGWALI
+1.14004,30.7170793,2022 Mar 13 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,013",Community Management,Non-Functional,544.0,300.0,False,,POINT (30.7170793 1.14004),KYANGWALI RSC
+1.4617025,31.2407699,2022 Mar 02 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Bugambe,"2,009",Community Management,Non-Functional,813.0,300.0,False,,POINT (31.2407699 1.4617025),BUGAMBE
+1.1587946,30.7327764,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,,Non-Functional,1245.0,300.0,False,,POINT (30.7327764 1.1587946),KYANGWALI RSC
+1.21496408,30.79925237,2010 May 05 12:00:00 AM,No,,Uganda,Kikuube,Kyangwali,"1,992",Community Management,Non-Functional,1375.0,50.0,False,,POINT (30.79925237 1.21496408),KYANGWALI
+1.3831032,31.1208604,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,021",,Non-Functional,1471.0,300.0,False,,POINT (31.1208604 1.3831032),KIZIRANFUMBI
+1.3375493,31.3109572,2022 Mar 14 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba Town Council,"2,017",,Non-Functional,1469.0,300.0,False,,POINT (31.3109572 1.3375493),BUHIMBA TOWN COUNCIL
+1.26683786,31.29902445,2010 May 07 12:00:00 AM,No,,Uganda,Kikuube,Buhimba,"2,005",Other Institutional Management,Non-Functional,740.0,50.0,False,,POINT (31.29902445 1.26683786),BUHIMBA
+1.187885,31.0351683,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kabwoya,,Community Management,Non-Functional,997.0,300.0,False,,POINT (31.0351683 1.187885),KABWOYA
+1.1743279,30.7999914,2022 Mar 13 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,020",,Non-Functional,3853.0,300.0,False,,POINT (30.7999914 1.1743279),KYANGWALI RSC
+1.123825,30.7525012,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,018",Community Management,Non-Functional,970.0,300.0,False,,POINT (30.7525012 1.123825),KYANGWALI RSC
+1.32563724,30.89057605,2010 May 05 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"1,998",Community Management,Non-Functional,972.0,300.0,False,,POINT (30.89057605 1.32563724),KYANGWALI
+1.3164768,30.8906898,2022 Mar 02 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,019",Community Management,Non-Functional,1298.0,300.0,False,,POINT (30.8906898 1.3164768),KYANGWALI
+1.2934397,31.1866915,2022 Mar 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,008",Community Management,Non-Functional,906.0,300.0,False,,POINT (31.1866915 1.2934397),KIKUUBE TOWN COUNCIL
+1.3281836,31.1737628,2022 Feb 28 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,001",,Non-Functional,692.0,300.0,False,,POINT (31.1737628 1.3281836),KIKUUBE TOWN COUNCIL
+1.1685335,30.7925025,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Non-Functional,5755.0,300.0,False,,POINT (30.7925025 1.1685335),KYANGWALI RSC
+1.16051,30.8012083,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,022",Community Management,Non-Functional,6769.0,300.0,False,,POINT (30.8012083 1.16051),KYANGWALI RSC
+1.3332208,31.2075605,2022 Mar 03 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,021",,Non-Functional,1938.0,300.0,False,,POINT (31.2075605 1.3332208),KIKUUBE TOWN COUNCIL
+1.3853057,31.1248201,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,021",,Non-Functional,1380.0,300.0,False,,POINT (31.1248201 1.3853057),KIZIRANFUMBI
+1.32005,31.3135692,2022 Mar 06 12:00:00 AM,No,,Uganda,Kikuube,Buhimba Town Council,"2,007",,Functional,541.0,250.0,False,,POINT (31.3135692 1.32005),BUHIMBA TOWN COUNCIL
+1.2602466,31.1334544,2022 Mar 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kabwoya,"2,019",Community Management,Non-Functional,644.0,300.0,False,,POINT (31.1334544 1.2602466),KABWOYA
+1.2803371,31.3481618,2022 Mar 01 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,016",Community Management,Functional,656.0,300.0,False,,POINT (31.3481618 1.2803371),BUHIMBA
+1.34963379,31.25518409,2010 May 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,000",Community Management,Non-Functional,1033.0,300.0,False,,POINT (31.25518409 1.34963379),BUHIMBA
+1.4189708,31.2662677,2022 Mar 05 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Bugambe,"1,997",Community Management,Non-Functional,702.0,300.0,False,,POINT (31.2662677 1.4189708),BUGAMBE
+1.1206181,30.7503099,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,019",Community Management,Non-Functional,727.0,300.0,False,,POINT (30.7503099 1.1206181),KYANGWALI RSC
+1.1718679,30.7914399,2022 Mar 13 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,019",Community Management,Non-Functional,5178.0,300.0,False,,POINT (30.7914399 1.1718679),KYANGWALI RSC
+1.1692941,30.8023693,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,020",,Non-Functional,4335.0,300.0,False,,POINT (30.8023693 1.1692941),KYANGWALI RSC
+1.3468309,31.3133272,2022 Mar 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba Town Council,"2,012",,Non-Functional,2555.0,300.0,False,,POINT (31.3133272 1.3468309),BUHIMBA TOWN COUNCIL
+1.29326597,31.27784738,2010 Oct 01 12:00:00 AM,No,,Uganda,Kikuube,Buhimba,"2,003",Other Institutional Management,Non-Functional,776.0,50.0,False,,POINT (31.27784738 1.29326597),BUHIMBA
+1.2379451,31.1042426,2022 Mar 03 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kabwoya,"2,019",Community Management,Functional,774.0,300.0,False,,POINT (31.1042426 1.2379451),KABWOYA
+1.31315396,31.167061,2010 May 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,009",Other Institutional Management,Non-Functional,1267.0,300.0,False,,POINT (31.167061 1.31315396),KIZIRANFUMBI
+1.1677052,30.7923167,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Non-Functional,5604.0,300.0,False,,POINT (30.7923167 1.1677052),KYANGWALI RSC
+1.2625846,30.7555155,2022 Mar 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,009",Community Management,Non-Functional,718.0,300.0,False,,POINT (30.7555155 1.2625846),KYANGWALI
+1.21491013,30.7996117,2010 May 05 12:00:00 AM,No,,Uganda,Kikuube,Kyangwali,"1,992",Other Institutional Management,Non-Functional,1375.0,50.0,False,,POINT (30.7996117 1.21491013),KYANGWALI
+1.3035311,31.211274,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,014",,Non-Functional,655.0,300.0,False,,POINT (31.211274 1.3035311),KIKUUBE TOWN COUNCIL
+1.3655745,31.1916386,2022 Mar 05 12:00:00 AM,No,,Uganda,Kikuube,Kikuube Town Council,"2,014",Community Management,Non-Functional,798.0,250.0,False,,POINT (31.1916386 1.3655745),KIKUUBE TOWN COUNCIL
+1.4505413,31.26197434,2010 May 10 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Bugambe,"2,000",Community Management,Non-Functional,942.0,300.0,False,,POINT (31.26197434 1.4505413),BUGAMBE
+1.1595535,30.8007995,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Non-Functional,6849.0,300.0,False,,POINT (30.8007995 1.1595535),KYANGWALI RSC
+1.3204576,30.9092218,2022 Mar 01 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kabwoya,"2,011",,Non-Functional,839.0,300.0,False,,POINT (30.9092218 1.3204576),KYANGWALI
+1.1805444,30.7969485,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,020",,Non-Functional,3256.0,300.0,False,,POINT (30.7969485 1.1805444),KYANGWALI RSC
+1.2531524,31.3306001,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,011",,Non-Functional,802.0,300.0,False,,POINT (31.3306001 1.2531524),BUHIMBA
+1.32354616,31.23199456,2010 May 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,,Community Management,Non-Functional,1383.0,300.0,False,,POINT (31.23199456 1.32354616),KIKUUBE TOWN COUNCIL
+1.3500379,31.1222435,2022 Mar 10 12:00:00 AM,No,,Uganda,Kikuube,Kiziranfumbi,"2,000",,Functional,835.0,250.0,False,,POINT (31.1222435 1.3500379),KIZIRANFUMBI
+1.4332038,31.2418143,2022 Mar 01 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Bugambe,,Community Management,Non-Functional,931.0,300.0,False,,POINT (31.2418143 1.4332038),BUGAMBE
+1.3386792,31.2197727,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,021",,Non-Functional,1237.0,300.0,False,,POINT (31.2197727 1.3386792),KIKUUBE TOWN COUNCIL
+1.1759824,30.7912446,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,020",,Non-Functional,4078.0,300.0,False,,POINT (30.7912446 1.1759824),KYANGWALI RSC
+1.35857594,31.3957542,2010 May 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,001",Community Management,Non-Functional,2039.0,300.0,False,,POINT (31.3957542 1.35857594),BUHIMBA
+1.3121218,31.1174631,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kabwoya,,Community Management,Non-Functional,468.0,300.0,False,,POINT (31.1174631 1.3121218),KIZIRANFUMBI
+1.3520961,30.9531542,2022 Mar 13 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kabwoya,,Community Management,Non-Functional,591.0,300.0,False,,POINT (30.9531542 1.3520961),KABWOYA
+1.1553674,30.7897426,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,018",,Non-Functional,4539.0,300.0,False,,POINT (30.7897426 1.1553674),KYANGWALI RSC
+1.471147,31.1992664,2022 Mar 05 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Bugambe,"2,022",Community Management,Non-Functional,312.0,300.0,False,,POINT (31.1992664 1.471147),BUGAMBE
+1.3370752,31.1405179,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,010",Community Management,Non-Functional,916.0,300.0,False,,POINT (31.1405179 1.3370752),KIZIRANFUMBI
+1.1350999,30.7338254,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,019",Community Management,Non-Functional,1079.0,300.0,False,,POINT (30.7338254 1.1350999),KYANGWALI RSC
+1.2273533,30.7765333,2022 Mar 03 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,016",,Non-Functional,1880.0,300.0,False,,POINT (30.7765333 1.2273533),KYANGWALI
+1.193563,30.7712199,2022 Mar 10 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,001",Community Management,Non-Functional,1227.0,300.0,False,,POINT (30.7712199 1.193563),KYANGWALI RSC
+1.1616061,30.8042385,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Non-Functional,5687.0,300.0,False,,POINT (30.8042385 1.1616061),KYANGWALI RSC
+1.3207598,31.268994,2022 Mar 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,019",Community Management,Non-Functional,378.0,300.0,False,,POINT (31.268994 1.3207598),BUHIMBA
+1.2420326,31.2962227,2022 Mar 02 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,010",,Non-Functional,609.0,300.0,False,,POINT (31.2962227 1.2420326),BUHIMBA
+1.1742133,30.7997559,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,019",,Functional,4335.0,300.0,False,,POINT (30.7997559 1.1742133),KYANGWALI RSC
+1.18623646,31.02998617,2010 May 17 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kabwoya,"1,998",Community Management,Non-Functional,1183.0,300.0,False,,POINT (31.02998617 1.18623646),KABWOYA
+1.3804453,31.1324187,2022 Mar 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,,Community Management,Non-Functional,1084.0,300.0,False,,POINT (31.1324187 1.3804453),KIZIRANFUMBI
+1.2339473,30.7466902,2022 Mar 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,009",Community Management,Non-Functional,496.0,300.0,False,,POINT (30.7466902 1.2339473),KYANGWALI
+1.3341796,31.34679011,2010 May 07 12:00:00 AM,No,,Uganda,Kikuube,Buhimba Town Council,"2,004",Community Management,Non-Functional,793.0,300.0,False,,POINT (31.34679011 1.3341796),BUHIMBA TOWN COUNCIL
+1.31081413,31.17005453,2010 May 08 12:00:00 AM,No,,Uganda,Kikuube,Kiziranfumbi,"1,996",Community Management,Non-Functional,1240.0,300.0,False,,POINT (31.17005453 1.31081413),KIZIRANFUMBI
+1.2381715,30.8256693,2022 Feb 28 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,014",,Non-Functional,1106.0,300.0,False,,POINT (30.8256693 1.2381715),KYANGWALI
+1.3544917,31.1992076,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,021",,Non-Functional,597.0,300.0,False,,POINT (31.1992076 1.3544917),KIKUUBE TOWN COUNCIL
+1.1293252,30.7586986,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Non-Functional,1381.0,300.0,False,,POINT (30.7586986 1.1293252),KYANGWALI RSC
+1.4479316,30.9163351,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kabwoya,,,Non-Functional,1075.0,300.0,False,,POINT (30.9163351 1.4479316),KABWOYA
+1.40039226,31.24298128,2010 May 06 12:00:00 AM,No,,Uganda,Kikuube,Bugambe,,Other Institutional Management,Non-Functional,1314.0,50.0,False,,POINT (31.24298128 1.40039226),BUGAMBE
+1.2122252,30.8003741,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,015",,Non-Functional,1419.0,300.0,False,,POINT (30.8003741 1.2122252),KYANGWALI
+1.3146135,31.2792673,2022 Mar 07 12:00:00 AM,No,,Uganda,Kikuube,Buhimba,,,Non-Functional,609.0,250.0,False,,POINT (31.2792673 1.3146135),BUHIMBA
+1.1724156,30.7889101,2022 Mar 13 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,019",Community Management,Non-Functional,4444.0,300.0,False,,POINT (30.7889101 1.1724156),KYANGWALI RSC
+1.20551246,31.07842948,2010 May 06 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kabwoya,"2,004",Community Management,Non-Functional,743.0,300.0,False,,POINT (31.07842948 1.20551246),KABWOYA
+1.33599743,31.29435073,2010 May 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba Town Council,"1,994",Other,Non-Functional,1003.0,300.0,False,,POINT (31.29435073 1.33599743),BUHIMBA TOWN COUNCIL
+1.1604495,30.8016643,2022 Mar 12 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,021",,Non-Functional,6562.0,300.0,False,,POINT (30.8016643 1.1604495),KYANGWALI RSC
+1.27327642,31.18027865,2010 May 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,000",Community Management,Non-Functional,695.0,300.0,False,,POINT (31.18027865 1.27327642),KIZIRANFUMBI
+1.2673984,31.29881743,2010 May 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,000",Community Management,Non-Functional,740.0,300.0,False,,POINT (31.29881743 1.2673984),BUHIMBA
+1.2360177,30.7434032,2022 Mar 07 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,021",,Non-Functional,1558.0,300.0,False,,POINT (30.7434032 1.2360177),KYANGWALI
+1.2866851,31.3580655,2022 Mar 02 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,002",Community Management,Non-Functional,613.0,300.0,False,,POINT (31.3580655 1.2866851),BUHIMBA
+1.384303,31.1181511,2022 Mar 09 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kiziranfumbi,"2,021",,Non-Functional,1267.0,300.0,False,,POINT (31.1181511 1.384303),KIZIRANFUMBI
+1.1549431,30.8010891,2022 Mar 11 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,,Community Management,Non-Functional,5796.0,300.0,False,,POINT (30.8010891 1.1549431),KYANGWALI RSC
+1.3304365,31.2044495,2022 Mar 03 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,021",,Non-Functional,2048.0,300.0,False,,POINT (31.2044495 1.3304365),KIKUUBE TOWN COUNCIL
+1.344515,31.1999491,2022 Mar 04 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kikuube Town Council,"2,021",,Non-Functional,768.0,300.0,False,,POINT (31.1999491 1.344515),KIKUUBE TOWN COUNCIL
+1.33524356,31.31568216,2010 Oct 01 12:00:00 AM,No,,Uganda,Kikuube,Buhimba Town Council,"2,005",Community Management,Non-Functional,1725.0,300.0,False,,POINT (31.31568216 1.33524356),BUHIMBA TOWN COUNCIL
+1.2877135,30.8897288,2022 Mar 03 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,021",Community Management,Non-Functional,1079.0,300.0,False,,POINT (30.8897288 1.2877135),KYANGWALI
+1.3516005,31.2490753,2022 Mar 05 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,011",,Non-Functional,868.0,300.0,False,,POINT (31.2490753 1.3516005),BUHIMBA
+1.1678667,30.7952767,2022 Mar 13 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,020",Community Management,Non-Functional,6059.0,300.0,False,,POINT (30.7952767 1.1678667),KYANGWALI RSC
+1.3552297,31.4001081,2022 Mar 01 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Buhimba,"2,010",,Non-Functional,1596.0,300.0,False,,POINT (31.4001081 1.3552297),BUHIMBA
+1.4372413,31.1785656,2022 Mar 08 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Bugambe,"2,018",,Non-Functional,643.0,300.0,False,,POINT (31.1785656 1.4372413),BUGAMBE
+1.1568122,30.7480957,2022 Mar 10 12:00:00 AM,No,Hand Pump,Uganda,Kikuube,Kyangwali,"2,020",Community Management,Non-Functional,1916.0,300.0,False,,POINT (30.7480957 1.1568122),KYANGWALI RSC
